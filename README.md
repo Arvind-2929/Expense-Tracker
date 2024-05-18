@@ -1,6 +1,6 @@
 ### Expense Tracker
 
-An app to track expenses
+An app to track expenses easily
 
 ### Installation
 
